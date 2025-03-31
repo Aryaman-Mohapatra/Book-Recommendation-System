@@ -1,0 +1,20 @@
+File structure:
+
+NEW Book Recommendation System
+│── app.py  
+│── kindle_data-v2.csv  
+│  
+├── static  
+│   ├── CSS/  
+│   ├── js/  
+│   ├── pic/  
+│       ├── img1.jpeg  
+│       ├── img2.jpeg  
+│       ├── img3.jpeg  
+│       ├── img4.jpeg  
+│  
+├── templates  
+│   ├── about.html  
+│   ├── contact.html  
+│   ├── index.html
+      
